@@ -1,5 +1,4 @@
 # Basic-PiCamera
-
 Python code for using Raspberry Pi camera.
 
 Tools used:
